@@ -90,7 +90,7 @@ int main()
 
         }
 
-        else
+        else if(!strcmp(a,"EXIT"))
             break;
     }
 
